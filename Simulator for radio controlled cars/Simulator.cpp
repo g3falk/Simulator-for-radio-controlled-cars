@@ -1,9 +1,6 @@
 #include "Simulator.h"
-#include <regex>
-#include <sstream>
+
 using namespace std;
-
-
 Simulator::Simulator(){
 }
 

@@ -3,6 +3,8 @@
 #include "Room.h"
 #include <iostream>
 #include <string>
+#include <regex>
+#include <sstream>
 
 class Simulator {
 private:
